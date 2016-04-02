@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">KAPPA GAY</div>
+                <div class="title">KAPPA METROSEXUAL</div>
             </div>
         </div>
     </body>
